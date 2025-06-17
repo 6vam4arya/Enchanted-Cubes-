@@ -28,14 +28,6 @@ A Harry Potter–inspired 🧙‍♂️ web app with animated boxes 📦 and glo
 
 ---
 
-## Screenshots
-
-![Alt text](\Enchanted-Cubes-\Light Mode-1.png)
-
-*(Add a screenshot of your app here)*
-
----
-
 ## Future Enhancements
 
 - Add more interactive magic spells triggered by user input.  

@@ -30,7 +30,7 @@ A Harry Potter–inspired 🧙‍♂️ web app with animated boxes 📦 and glo
 
 ## Screenshots
 
-![Screenshot]()  
+!["C:\Users\kumar\Desktop\Web Dev Projects\Enchanted-Cubes-\Light Mode - 1 .png"]()  
 *(Add a screenshot of your app here)*
 
 ---
